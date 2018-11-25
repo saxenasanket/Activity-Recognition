@@ -22,10 +22,10 @@ Flow of code is :
 
 4. mergecsv.py
   
-  All csv belonging to one video are merged into one csv file. (row-wise)
+    All csv belonging to one video are merged into one csv file. (row-wise)
 
 5. final_merge.py
 
-  All csv obtained in above step are finally merged . Final csv contains 102401*600 entries .
+    All csv obtained in above step are finally merged . Final csv contains 102401*600 entries .
 
 
